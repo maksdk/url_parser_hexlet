@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "npx babel-node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/node": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {}
+}
